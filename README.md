@@ -1,3 +1,27 @@
-<h1>발표 자료<h4>
+<!-- <h1>발표 자료<h4>
 
 [CE_006_비속어 검출을 위한 딥러닝 모델의 성능평가.pdf](https://github.com/KINGJUYONG/2022_Academic_Fes/files/11505781/CE_006_.pdf)
+ -->
+![슬라이드1](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/f07027ca-eb4e-4ddd-99c4-0fb5b65548d4)
+![슬라이드2](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/42a71072-f03b-45e0-9ed7-d6178c1adea9)
+![슬라이드3](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/ad47d2ea-6445-4bb9-a123-debc78f152cc)
+![슬라이드4](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/68c7d18a-314e-4ed7-9693-7e555e221cf6)
+![슬라이드5](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/94a8a2aa-2ed9-4036-bec1-bceb3ef1923f)
+![슬라이드6](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/e208d7f9-a33a-4c7d-a136-9f04e0c04846)
+![슬라이드7](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/ccf580ec-2194-45b9-8e16-e4cfc339d651)
+![슬라이드8](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/7b9aad43-deff-42d9-b9cf-5b27ead11480)
+![슬라이드9](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/5ef77255-c59b-46a7-b540-3974a0ec1f64)
+![슬라이드10](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/03b3639a-87fd-43f0-a404-8ebecd8cb82b)
+![슬라이드11](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/3db077d9-bebf-4e01-8830-c206870ef58e)
+![슬라이드12](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/07266e4b-06f7-4654-92a1-7cff0107b3d6)
+![슬라이드13](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/4a4eab92-fb2f-43c8-811e-fd39a18907a2)
+![슬라이드14](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/08f2690a-3d63-4a85-a7d0-7bb40a6d684b)
+![슬라이드15](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/8b3e2b14-b65f-440f-ba2d-8b9f53e99231)
+![슬라이드16](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/3d624bf8-e541-44ae-bd7a-838f350ff6af)
+![슬라이드17](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/51c9c013-5bb6-40fd-8bd3-748fd4f5ce07)
+![슬라이드18](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/2ee470b3-46c7-4c8b-a001-68e7135f2372)
+![슬라이드19](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/65d18b9e-971b-4d7d-8a69-f3754808ca05)
+![슬라이드20](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/c0cc72ab-75de-416b-b016-f1e167232459)
+![슬라이드21](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/effe690f-4017-43f2-85a9-bf7923e76525)
+![슬라이드22](https://github.com/KINGJUYONG/2022_Academic_Fes/assets/102943211/27ed2462-e274-4e8c-a00a-d5d3bfaf071b)
+
